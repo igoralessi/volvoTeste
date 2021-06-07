@@ -24,3 +24,5 @@ e
 
 npm run storybook
 
+
+( o card é só para mobile  =D )
