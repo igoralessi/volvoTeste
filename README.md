@@ -12,5 +12,15 @@ O projeto do front end foi feito pensando em mobile first.
 
 O storybook não foi finalizado por falta de tempo.
 
+para acessar o storybook certifique que o yarn estaja instalado
 
+'npm install --global yarn'
+
+rode 
+
+yarn install
+
+e  
+
+npm run storybook
 
